@@ -1,0 +1,7 @@
+The Sims;8.60;2000;Electronic Arts;life-simulation 
+Starcraft;9.12;1998;Blizzard Entertainment;strategy 
+Rogue;5.60;1984;A.I.Design;adventure 
+Sid Meier's Civilisation;7.60;1991;MicroProse Software;strategy 4x 
+World of Warcraft;9.80;2004;Vivendi Universal;role-playing
+The Sims;8.60;2000;Electronic Arts;life-simulation
+Sid Meier's Civilisation;7.60;1991;MicroProse Software;strategy 4x
